@@ -1,6 +1,10 @@
 #  How to take, crop and save photo?
 
-[References](https://stackoverflow.com/questions/40854886/swift-take-a-photo-and-save-to-photo-library)
+[Take and save photo](https://stackoverflow.com/questions/40854886/swift-take-a-photo-and-save-to-photo-library)
+
+[Crop image](https://github.com/myang-git/iOS-Image-Crop-View)
+
+[Using Objective-C Classes in Swift](https://hype.codes/how-call-objective-c-code-swift)
 
 ## Setup permission in Info.plist file
 
